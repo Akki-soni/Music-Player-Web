@@ -10,7 +10,8 @@
 ## Music Player
 
 A simple, user-friendly Music Player built using HTML, CSS, and JavaScript. This player allows users to play, pause, and switch between songs with basic controls.
-Music Player | [Live View](https://to-do-list-web-app-beryl.vercel.app/)
+
+Music Player | [Live View](https://music-player-web-ten.vercel.app/)
 
 ## Features
 
