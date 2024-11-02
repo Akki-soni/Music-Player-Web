@@ -7,7 +7,7 @@
 </p>
 <p align="center"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-<h1 align="center">Notes App</h1>
+<h1 align="center">Music Player</h1>
 
 <p align="center">
   <img src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML Badge">
@@ -16,7 +16,7 @@
 </p>
 
 <p align="center">
-  This is a simple Notes App built using HTML, CSS, and JavaScript. It allows users to create, view, edit, and delete notes. The application saves the notes in the browser's local storage, so they persist even after the page is refreshed.
+  A simple, user-friendly Music Player built using HTML, CSS, and JavaScript. This player allows users to play, pause, and switch between songs with basic controls.
 </p>
 
 ## 🚀 Features
@@ -132,9 +132,27 @@ Thank you for exploring the StopWatch! Your feedback is valuable. If you have an
 </p>
 <p align="center"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-## Music Player
 
-A simple, user-friendly Music Player built using HTML, CSS, and JavaScript. This player allows users to play, pause, and switch between songs with basic controls.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 Music Player | [Live View](https://music-player-web-ten.vercel.app/)
 
