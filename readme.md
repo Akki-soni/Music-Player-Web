@@ -47,7 +47,7 @@
 No external dependencies are required. Just clone the repository and open the `index.html` file in any modern web browser.
 
 ```bash
-git clone <>
+git clone <https://github.com/Akki-soni/Music-Player-Web.git>
 cd music-player
 open index.html
 ```
