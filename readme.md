@@ -62,7 +62,7 @@ open index.html
 
 ## 🌟 Screenshots
 
-![Music-Player Screenshot](/media/MP_Screebshot.png)
+![Music-Player Screenshot](/media/MP_Screenshot.png)
 
 ## 🔗 Live Demo
 
