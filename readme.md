@@ -21,31 +21,34 @@
 
 ## 🚀 Features
 
-- **_Add new notes with a title and content._**
-- **_Edit or delete existing notes._**
-- **_Notes are saved automatically in local storage._**
-- **_Responsive design for mobile and desktop use._**
+- ***Play, pause, and skip functionality.***
+- ***Displays song details like title and artist.***
+- ***Customizable playlist of songs.***
+- ***Clean and responsive design.***
+- ***Progress bar showing the current time of the song.***
+- ***Volume control and mute functionality.***
 
 ## 🛠️ Technologies Used
 
-- **HTML**: Markup structure for the app.
-- **CSS**: Styling and layout of the app.
-- **JavaScript**: Functionality to add, edit, delete, and store notes using local storage.
+- **HTML**: To structure the music player interface.
+- **CSS**: For styling the player and making it responsive.
+- **JavaScript**: For handling the music player controls and interactions.
 
 ## 🚀 How to Use
 
-- **Add a Note**: Use the input fields to enter a title and content for your note, then click the "Add Note" button.
-- **View Notes**: The list of notes is displayed below the input fields.
-- **Edit a Note**: Click the "Edit" button on an existing note, update the title or content, and save the changes.
-- **Delete a Note**: Click the "Delete" button on an existing note to remove it from the list.
+- ***Open the app and load your playlist.***
+- ***Click the play button to start playing the current song.***
+- ***Use the next and previous buttons to switch between tracks.***
+- ***Control the volume and mute/unmute the player as needed.***
+- ***The progress bar shows how much of the song has been played.***
 
 ## 🚀 Project Setup
 
 No external dependencies are required. Just clone the repository and open the `index.html` file in any modern web browser.
 
 ```bash
-git clone <https://github.com/Akki-soni/Notes-App-main.git>
-cd Notes App
+git clone <>
+cd music-player
 open index.html
 ```
 
@@ -57,20 +60,13 @@ open index.html
 └── script.js  # The JavaScript file for functionality
 ```
 
-## 🚀 Future Improvements
-
-- ***Add a search functionality to filter through notes.***
-- ***Implement categories or tags for notes organization.***
-- ***Sync notes with a backend server for cross-device access.***
-
-
 ## 🌟 Screenshots
 
-![StopWatch Screenshot](/images/NA_Screenshot.png)
+![Music-Player Screenshot]()
 
 ## 🔗 Live Demo
 
-[View Live Demo](https://notes-app-main-eight.vercel.app/)
+[View Live Demo](https://music-player-web-ten.vercel.app/)
 
 ## 🤝 Contributing
 
@@ -100,91 +96,3 @@ Contributions are welcome! If you encounter any issues or have suggestions for i
 Thank you for exploring the StopWatch! Your feedback is valuable. If you have any suggestions or thoughts, feel free to share them with us. 😊
 
 </div>
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-<p align="center">
-  <b style="color: blue;  ">Visitor count</b>
-  <br>
-  <a style="" href="https://github.com/Akki-soni">
-  <img src="https://komarev.com/ghpvc/?username=akki-soni&label=Profile%20views&color=0e75b6&style=flat" />
-  </a>
-</p>
-<p align="center"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-Music Player | [Live View](https://music-player-web-ten.vercel.app/)
-
-## Features
-
-- Play, pause, and skip functionality.
-- Displays song details like title and artist.
-- Customizable playlist of songs.
-- Clean and responsive design.
-- Progress bar showing the current time of the song.
-- Volume control and mute functionality.
-
-## Technologies Used
-
-- **HTML**: To structure the music player interface.
-- **CSS**: For styling the player and making it responsive.
-- **JavaScript**: For handling the music player controls and interactions.
-
-## How to Use
-
-1. Open the app and load your playlist.
-2. Click the play button to start playing the current song.
-3. Use the next and previous buttons to switch between tracks.
-4. Control the volume and mute/unmute the player as needed.
-5. The progress bar shows how much of the song has been played.
-
-## Project Setup
-
-No external dependencies are required. Just clone the repository and open the `index.html` file in any modern web browser.
-
-```bash
-git clone <repository_url>
-cd music-player
-open index.html
-```
